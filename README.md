@@ -16,5 +16,5 @@
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-db7092?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-F05032?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="Huggingface" src="https://img.shields.io/badge/-Huggingface-ea2845?style=flat-square&logo=huggingface&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-DD0031?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=mysql&logoColor=white" />
 </p>
