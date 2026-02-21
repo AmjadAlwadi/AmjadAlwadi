@@ -7,14 +7,13 @@
   <img alt="C" src="https://img.shields.io/badge/-C-311C87?style=flat-square&logo=c&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-430098?style=flat-square&logo=java&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-764ABC?style=flat-square&logo=databricks&logoColor=white" />
-  <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-B7178C?style=flat-square&logo=vhdl&logoColor=white" />
-  
   <img alt="QT" src="https://img.shields.io/badge/-QT-E10098?style=flat-square&logo=qt&logoColor=white" />
   <img alt="QML" src="https://img.shields.io/badge/-QML-CC6699?style=flat-square&logo=qml&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-db7092?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-F05032?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="Huggingface" src="https://img.shields.io/badge/-Huggingface-ea2845?style=flat-square&logo=huggingface&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="VHDL" src="https://img.shields.io/badge/-VHDL-B7178C?style=flat-square&logo=vhdl&logoColor=white" />
 </p>
 <br/>
 <p><a href="https://github.com/amjadalwadi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
