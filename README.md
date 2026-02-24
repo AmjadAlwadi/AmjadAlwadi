@@ -50,10 +50,46 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmjadAlwadi&amp;style=flat-square&amp;color=6C63FF" alt="Profile Views" />
-  <a href="https://github.com/AmjadAlwadi?tab=followers">
-    <img src="https://img.shields.io/github/followers/AmjadAlwadi?style=flat-square&amp;color=6C63FF&amp;labelColor=0D1117" alt="Followers" />
-  </a>
-</p>
+---
+
+## About Me
+
+```yaml
+name: Amjad Alwadi
+role: HiWi @ Institut für Anwendungssicherheit, TU Braunschweig
+location: Germany
+languages: [German (native), English, Arabic, Japanese]
+```
+
+* HiWi am **Institut für Anwendungssicherheit** an der TU Braunschweig
+* Masterstudent der Informatik, Abschluss voraussichtlich Oktober 2026
+* Masterarbeit: Entwicklung einer **branchensensitiven dynamischen Taint-Analyse** zur Detektion versteckter client-seitiger XSS-Flows, inklusive Browserinstrumentierung, AST-Rewrites, Monkeypatching, Playwright-Automatisierung und Z3-basiertem Constraint-Solving
+* Bachelorarbeit: Evaluation von **Model-Editing-Verfahren** zur normativen Anpassung von LLMs und Erstellung eines dedizierten Datensatzes für Hypernetzwerke
+* Erfahrung in **Systems Programming, OS- & Kernel-Entwicklung, Networking, Embedded Systems**
+* Umfassende Kenntnisse in **C++, C, Python, Qt, QML, Java, JavaScript (React, Node, Express), SQL, HTML, CSS**
+* Erfahrung mit **Docker, Linux, PyTorch, TensorFlow, Hugging Face Transformers, Pandas, NumPy, Matplotlib**
+* Projekte: TCP-Chat-Anwendungen, 2D-Spiele, Raytracer & Raymarcher, Computer Lab Mustererkennung, VHDL-Spiele auf FPGA, GLSP-basierte GUI-Erweiterung, Wireless Networking Lab
+* Leidenschaft für **Data Science, Machine Learning, Web-Sicherheit, NLP & LLMs, Computer Vision**
+* Ich liebe es, **technische Herausforderungen in funktionierende, saubere Lösungen zu verwandeln**
+
+<details>
+<summary>🇬🇧 <b>In English</b></summary>
+<br>
+
+* HiWi at the **Institute for Application Security** at TU Braunschweig
+* Master's student in Computer Science, expected graduation October 2026
+* Master's thesis: Development of a **branch-sensitive dynamic taint analysis** for detecting hidden client-side XSS flows, including browser instrumentation, AST rewrites, monkeypatching, Playwright automation, and Z3-based constraint solving
+* Bachelor's thesis: Evaluation of **model editing techniques** for normative adaptation of LLMs and creation of a dedicated dataset for hypernetworks
+* Experience in **systems programming, OS & kernel development, networking, embedded systems**
+* Proficient in **C++, C, Python, Qt, QML, Java, JavaScript (React, Node, Express), SQL, HTML, CSS**
+* Experienced with **Docker, Linux, PyTorch, TensorFlow, Hugging Face Transformers, Pandas, NumPy, Matplotlib**
+* Projects: TCP chat applications, 2D games, raytracer & raymarcher, computer lab pattern recognition, VHDL FPGA games, GLSP-based GUI extension, wireless networking lab
+* Passionate about **data science, machine learning, web security, NLP & LLMs, computer vision**
+* I love **turning technical challenges into elegant, working solutions**
+
+</details>
+
+---
+
+
 
