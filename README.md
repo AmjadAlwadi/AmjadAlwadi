@@ -2,8 +2,8 @@
 
 </br> I'm Amjad, C++ developer from Germany, residing in <b>Salzgitter Germany</b>. </p>
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-5849BE?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-311C87?style=flat-square&logo=c&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-430098?style=flat-square&logo=java&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-764ABC?style=flat-square&logo=databricks&logoColor=white" />
