@@ -58,7 +58,7 @@
 name: Amjad Alwadi
 role: HiWi @ Institut für Anwendungssicherheit, TU Braunschweig
 location: Germany
-languages: [German (native), English, Arabic, Japanese]
+languages: [Arabic, German, English]
 ```
 
 * HiWi am **Institut für Anwendungssicherheit** an der TU Braunschweig
