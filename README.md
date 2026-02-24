@@ -49,3 +49,11 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmjadAlwadi&amp;style=flat-square&amp;color=6C63FF" alt="Profile Views" />
+  <a href="https://github.com/AmjadAlwadi?tab=followers">
+    <img src="https://img.shields.io/github/followers/AmjadAlwadi?style=flat-square&amp;color=6C63FF&amp;labelColor=0D1117" alt="Followers" />
+  </a>
+</p>
+
