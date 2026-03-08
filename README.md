@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-</br> I'm Amjad, C++ developer from Germany, residing in <b>Salzgitter Germany</b>. </p>
+</br> I'm Amjad, software developer from Germany, residing in <b>Salzgitter Germany</b>. </p>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-5849BE?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=c%2B%2B&logoColor=white" />
